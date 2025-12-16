@@ -1,2 +1,5 @@
-# lalala
-birthday-Nhun Nhun
+birthday/
+├─ index.html
+├─ style.css
+├─ script.js
+└─ music.mp3
