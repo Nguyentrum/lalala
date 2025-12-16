@@ -1,5 +1,2 @@
-birthday/
-├─ index.html
-├─ style.css
-├─ script.js
-└─ music.mp3
+birthday nhun nhun
+
